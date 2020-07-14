@@ -34,6 +34,7 @@ Greater than 900001, tax is 30%
 First, we exclude the rebate from the salary of each employee. This will be the taxable component of salary. Upon, taxable salary apply the slab and tax percentage logic. Upon computation, one finds that employees are paid amounts 1000000, 1200000, 1400000, 1700000 respectively, as salaries. So, the total salary paid to all employees in that year will be 5300000.
 
 Hint: - It may be helpful to browse the internet to know general rules regarding income tax calculations.
+
 '''
 
 
